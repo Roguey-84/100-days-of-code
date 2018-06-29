@@ -12,9 +12,9 @@
 
 ### Day 1: June 29, 2018
 
-**Today's Progress**: I've learned a lot about colors and gradients in CSS on freeCodeCamp. A never knew, that you could make stripes with the help of repeating-linear-gradient().
+**Today's Progress**: I've learned a lot about colors and gradients in CSS on freeCodeCamp. I never knew, that you could make stripes with the help of repeating-linear-gradient().
 
-**Thoughts** That was very fascinating and interesting lesson. I hope tomorrow will be even more interesting day.
+**Thoughts** That was a very fascinating and interesting lesson. I hope tomorrow will be even more interesting day.
 
 **Link(s) to work**
 1. [Learn about Complementary Colors](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-about-complementary-colors/)
