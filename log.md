@@ -9,7 +9,7 @@
 **Link(s) to work**
 [Operators](http://learn.javascript.ru/operators)
 
-
+--------------------------------------------------------
 ### Day 1: June 29, 2018
 
 **Today's Progress**: I've learned a lot about colors and gradients in CSS on freeCodeCamp. I never knew, that you could make stripes with the help of repeating-linear-gradient().
