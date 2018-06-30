@@ -29,3 +29,32 @@
 10. [Use the CSS Transform scale Property to Scale an Element on Hover](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-scale-an-element-on-hover)
 11. [Use the CSS Transform Property skewX to Skew an Element Along the X-Axis](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis)
 12. [Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewy-to-skew-an-element-along-the-y-axis)
+
+--------------------------------------------------------
+### Day 2: June 30, 2018
+
+**Today's Progress**: I've completed all the tasks about Visual design and started learing about Accessability.
+
+**Thoughts** CSS is so interesting. I even forgot about the time and didn't notice that the day had already come to an end.
+
+**Link(s) to work**
+1. [Create a Graphic Using CSS](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-graphic-using-css)
+2. [Create a More Complex Shape Using CSS and HTML](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html)
+3. [Learn How the CSS @keyframes and animation Properties Work](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work)
+4. [Use CSS Animation to Change the Hover State of a Button](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button)
+5. [Modify Fill Mode of an Animation](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation)
+6. [Create Movement Using CSS Animation](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-movement-using-css-animation)
+7. [Create Visual Direction by Fading an Element from Left to Right](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-visual-direction-by-fading-an-element-from-left-to-right)
+8. [Animate Elements Continually Using an Infinite Animation Count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count)
+9. [Make a CSS Heartbeat using an Infinite Animation Count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
+10. [Animate Elements at Variable Rates](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-elements-at-variable-rates)
+11. [Animate Multiple Elements at Variable Rates](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-multiple-elements-at-variable-rates)
+12. [Change Animation Timing with Keywords](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-animation-timing-with-keywords/)
+13. [Learn How Bezier Curves Work](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-bezier-curves-work)
+14. [Use a Bezier Curve to Move a Graphic](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-bezier-curve-to-move-a-graphic)
+15. [Make Motion More Natural Using a Bezier Curve](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve)
+16. [Add a Text Alternative to Images for Visually Impaired Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-a-text-alternative-to-images-for-visually-impaired-accessibility)
+17. [Know When Alt Text Should be Left Blank](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/know-when-alt-text-should-be-left-blank)
+18. [Use Headings to Show Hierarchical Relationships of Content](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content)
+19. [Jump Straight to the Content Using the main Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element)
+20. [Wrap Content in the article Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
