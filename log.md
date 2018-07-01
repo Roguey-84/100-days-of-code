@@ -33,7 +33,7 @@
 --------------------------------------------------------
 ### Day 2: June 30, 2018
 
-**Today's Progress**: I've completed all the tasks about Visual design and started learing about Accessability.
+**Today's Progress**: I've completed all the tasks about Visual design and started learing about Accessibility.
 
 **Thoughts** CSS is so interesting. I even forgot about the time and didn't notice that the day had already come to an end.
 
@@ -58,3 +58,29 @@
 18. [Use Headings to Show Hierarchical Relationships of Content](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content)
 19. [Jump Straight to the Content Using the main Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element)
 20. [Wrap Content in the article Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
+
+--------------------------------------------------------
+### Day 3: July 1, 2018
+
+**Today's Progress**: Accessibility challendges are over. The next will be Responsive Web Design, but this should wait untill tomorrow.
+
+**Thoughts** Not quite understood the meaning of the <time> tag and the accesskey attribute. How the users should know which key they should click on?
+
+**Link(s) to work**
+1. [Make Screen Reader Navigation Easier with the header Landmark](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-header-landmark/)
+2. [Make Screen Reader Navigation Easier with the nav Landmark](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-nav-landmark)
+3. [Make Screen Reader Navigation Easier with the footer Landmark](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-footer-landmark)
+4. [Improve Accessibility of Audio Content with the audio Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-accessibility-of-audio-content-with-the-audio-element)
+5. [Improve Chart Accessibility with the figure Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-chart-accessibility-with-the-figure-element)
+6. [Improve Form Field Accessibility with the label Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
+7. [Wrap Radio Buttons in a fieldset Element for Better Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
+8. [Add an Accessible Date Picker](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-an-accessible-date-picker)
+9. [Standardize Times with the HTML5 datetime Attribute](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/standardize-times-with-the-html5-datetime-attribute)
+10. [Make Elements Only Visible to a Screen Reader by Using Custom CSS](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css)
+11. [Improve Readability with High Contrast Text](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-readability-with-high-contrast-text)
+12. [Avoid Colorblindness Issues by Using Sufficient Contrast](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-using-sufficient-contrast)
+13. [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information)
+14. [Give Links Meaning by Using Descriptive Link Text](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/give-links-meaning-by-using-descriptive-link-text)
+15. [Make Links Navigatable with HTML Access Keys](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-links-navigatable-with-html-access-keys)
+16. [Use tabindex to Add Keyboard Focus to an Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-add-keyboard-focus-to-an-element)
+17. [Use tabindex to Specify the Order of Keyboard Focus for Several Elements](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
