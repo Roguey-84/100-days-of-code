@@ -84,3 +84,22 @@
 15. [Make Links Navigatable with HTML Access Keys](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-links-navigatable-with-html-access-keys)
 16. [Use tabindex to Add Keyboard Focus to an Element](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-add-keyboard-focus-to-an-element)
 17. [Use tabindex to Specify the Order of Keyboard Focus for Several Elements](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
+
+--------------------------------------------------------
+### Day 4: July 2, 2018
+
+**Today's Progress**: I've learned about Responsive Web Design and have started to learn about CSS Flexbox.
+
+**Thoughts** Responsive Web Design is quite an interesting topic, it is too bad, that freeCodeCamp has so many challenges about it.
+
+**Link(s) to work**
+1. [Create a Media Query](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/create-a-media-query)
+2. [Make an Image Responsive](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/make-an-image-responsive)
+3. [Use a Retina Image for Higher Resolution Displays](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/use-a-retina-image-for-higher-resolution-displays)
+4. [Make Typography Responsive](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
+5. [Use display: flex to Position Two Boxes](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes)
+6. [Add Flex Superpowers to the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed/)
+7. [Use the flex-direction Property to Make a Row](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row)
+8. [Apply the flex-direction Property to Create Rows in the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed)
+9. [Use the flex-direction Property to Make a Column](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-column)
+10. [Apply the flex-direction Property to Create a Column in the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed)
