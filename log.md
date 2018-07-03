@@ -103,3 +103,13 @@
 8. [Apply the flex-direction Property to Create Rows in the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed)
 9. [Use the flex-direction Property to Make a Column](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-column)
 10. [Apply the flex-direction Property to Create a Column in the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed)
+
+--------------------------------------------------------
+### Day 5: July 3, 2018
+
+**Today's Progress**: Today a bought a course of JavaSctipt on Udemy, and learned some new stuff about JavaScript fundamentals. It's actually quite interesting and it is helpful to do something new for a change.
+
+**Thoughts** Can't wait to do some stuff for myself. I want to do my own project as soon as possible.
+
+**Link(s) to work**
+1. [Modern JavaScript From the Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/content)
