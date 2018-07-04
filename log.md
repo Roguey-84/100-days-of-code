@@ -113,3 +113,13 @@
 
 **Link(s) to work**
 1. [Modern JavaScript From the Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/content)
+
+--------------------------------------------------------
+### Day 6: July 4, 2018
+
+**Today's Progress**: I've learned all the fundamentals of JavaScript on Udemy and tomorrow I'm going to learn about DOM.
+
+**Thoughts** I hope that toworrow I'll have a chance to start working on a project. Can't wait and see my potential.
+
+**Link(s) to work**
+1. [Modern JavaScript From the Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/content)
