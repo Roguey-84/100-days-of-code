@@ -123,3 +123,14 @@
 
 **Link(s) to work**
 1. [Modern JavaScript From the Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/content)
+
+--------------------------------------------------------
+### Day 7: July 5, 2018
+
+**Today's Progress**: Today I've learned a lot about working with DOM in JavaScript. And I actually started working on a project and made a simple Task List.
+
+**Thoughts** I like working with JavaScript when I understand what I'm doing.
+
+**Link(s) to work**
+1. [Modern JavaScript From the Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/content)
+2. [My Task List](https://codepen.io/Roguey/full/jKjqjY)
