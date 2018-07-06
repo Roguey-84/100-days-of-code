@@ -134,3 +134,37 @@
 **Link(s) to work**
 1. [Modern JavaScript From the Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/content)
 2. [My Task List](https://codepen.io/Roguey/full/jKjqjY)
+
+--------------------------------------------------------
+### Day 8: July 6, 2018
+
+**Today's Progress**: Today I've learned a lot about working with DOM in JavaScript. And I actually started working on a project and made a simple Task List.
+
+**Thoughts** I like working with JavaScript when I understand what I'm doing.
+
+**Link(s) to work**
+1. [Align Elements Using the justify-content Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property/)
+2. [Use the justify-content Property in the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed)
+3. [Align Elements Using the align-items Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property)
+4. [Use the align-items Property in the Tweet Embed](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed)
+5. [Use the flex-wrap Property to Wrap a Row or Column](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column)
+6. [Use the flex-shrink Property to Shrink Items](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items)
+7. [Use the flex-grow Property to Expand Items](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items)
+8. [Use the flex-basis Property to Set the Initial Size of an Item](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item)
+9. [Use the flex Shorthand Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-shorthand-property)
+10. [Use the order Property to Rearrange Items](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items)
+11. [Use the align-self Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-align-self-property)
+12. [Create Your First CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-your-first-css-grid)
+13. [Add Columns with grid-template-columns](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-columns-with-grid-template-columns)
+14. [Add Rows with grid-template-rows](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
+15. [Use CSS Grid units to Change the Size of Columns and Rows](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows)
+16. [Create a Column Gap Using grid-column-gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-a-column-gap-using-grid-column-gap)
+17. [Create a Row Gap using grid-row-gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-a-row-gap-using-grid-row-gap)
+18. [Add Gaps Faster with grid-gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
+19. [Use grid-column to Control Spacing](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-column-to-control-spacing)
+20. [Use grid-row to Control Spacing](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-row-to-control-spacing)
+21. [Align an Item Horizontally using justify-self](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self)
+22. [Align an Item Vertically using align-self](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-an-item-vertically-using-align-self)
+23. [Align All Items Horizontally using justify-items](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-horizontally-using-justify-items)
+24. [Align All Items Vertically using align-items](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-vertically-using-align-items)
+25. [Divide the Grid Into an Area Template](https://learn.freecodecamp.org/responsive-web-design/css-grid/divide-the-grid-into-an-area-template)
