@@ -138,9 +138,9 @@
 --------------------------------------------------------
 ### Day 8: July 6, 2018
 
-**Today's Progress**: Today I've learned a lot about working with DOM in JavaScript. And I actually started working on a project and made a simple Task List.
+**Today's Progress**: Today I've learned a lot about CSS Flexbox and CSS Grid. 
 
-**Thoughts** I like working with JavaScript when I understand what I'm doing.
+**Thoughts** CSS Grid is quite a useful thing, except the fact that the names of the properties are hard to remember. On my opinion they are too complicated.
 
 **Link(s) to work**
 1. [Align Elements Using the justify-content Property](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property/)
