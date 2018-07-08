@@ -168,3 +168,20 @@
 23. [Align All Items Horizontally using justify-items](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-horizontally-using-justify-items)
 24. [Align All Items Vertically using align-items](https://learn.freecodecamp.org/responsive-web-design/css-grid/align-all-items-vertically-using-align-items)
 25. [Divide the Grid Into an Area Template](https://learn.freecodecamp.org/responsive-web-design/css-grid/divide-the-grid-into-an-area-template)
+
+--------------------------------------------------------
+### Day 9: July 7, 2018
+
+**Today's Progress**: Today I have finally ended all the CSS Grid challenges on freeCodeCamp and started working on a project making a Survey Form. 
+
+**Thoughts** I couldn't come up with my own form, so I just copied the form from the example. I just had to come up with my own design in CSS.
+
+**Link(s) to work**
+1. [Place Items in Grid Areas Using the grid-area Property](https://learn.freecodecamp.org/responsive-web-design/css-grid/place-items-in-grid-areas-using-the-grid-area-property/)
+2. [Use grid-area Without Creating an Areas Template](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-grid-area-without-creating-an-areas-template/)
+3. [Reduce Repetition Using the repeat Function](https://learn.freecodecamp.org/responsive-web-design/css-grid/reduce-repetition-using-the-repeat-function/)
+4. [Limit Item Size Using the minmax Function](https://learn.freecodecamp.org/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function/)
+5. [Create Flexible Layouts Using auto-fill](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill/)
+6. [Create Flexible Layouts Using auto-fit](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit/)
+7. [Use Media Queries to Create Responsive Layouts](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts/)
+8. [Create Grids within Grids](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids/)
