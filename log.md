@@ -185,3 +185,13 @@
 6. [Create Flexible Layouts Using auto-fit](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit/)
 7. [Use Media Queries to Create Responsive Layouts](https://learn.freecodecamp.org/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts/)
 8. [Create Grids within Grids](https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids/)
+
+--------------------------------------------------------
+### Day 10: July 8, 2018
+
+**Today's Progress**: Today I finally ended applying CSS to my Survey Form page for freeCodeCamp. 
+
+**Thoughts** Didn't know that it would take so much time. But I made it! Hooray! Tomorrow is the day of a Landing Page.
+
+**Link(s) to work**
+1. [Survey Form](https://codepen.io/Roguey/full/dKxLeR)
