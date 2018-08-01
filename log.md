@@ -195,3 +195,13 @@
 
 **Link(s) to work**
 1. [Survey Form](https://codepen.io/Roguey/full/dKxLeR)
+
+--------------------------------------------------------
+### Days 11-34: July 9 - August 1, 2018
+
+**Today's Progress**: It took me almost a month to complete a Landing Page, but I've finally made it. 
+
+**Thoughts** It was quite a difficult template, but thanks to that I learned a lot of new features and I'm glad that I've chosen this psd template.
+
+**Link(s) to work**
+1. [Landing Page](https://codepen.io/Roguey/full/BPymOo/)
