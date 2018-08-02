@@ -205,3 +205,13 @@
 
 **Link(s) to work**
 1. [Landing Page](https://codepen.io/Roguey/full/BPymOo/)
+
+--------------------------------------------------------
+### Day 35: August 2, 2018
+
+**Today's Progress**: I have started working on the Technical Documentation Page for freeCodeCamp. 
+
+**Thoughts** Learning new tags and features. So far it goes smoothly.
+
+**Link(s) to work**
+1. [Build a Technical Documentation Page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
