@@ -219,9 +219,9 @@
 --------------------------------------------------------
 ### Day 36: August 9, 2018
 
-**Today's Progress**: I have started working on the Technical Documentation Page for freeCodeCamp. 
+**Today's Progress**: I've started challenges on JavaScript on freeCodeCamp. 
 
-**Thoughts** Learning new tags and features. So far it goes smoothly.
+**Thoughts** So far it is just basic knowledge, which I have already learned, but I still need to review this material.
 
 **Link(s) to work**
 1. [Comment Your JavaScript Code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code/)
