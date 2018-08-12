@@ -296,3 +296,37 @@
 17. [Understanding Undefined Value returned from a Function](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function)
 18. [Assignment with a Returned Value](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/assignment-with-a-returned-value)
 19. [Stand in Line](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line)
+
+--------------------------------------------------------
+### Day 39: August 12, 2018
+
+**Today's Progress**: Today a worked with Boolean data type, comparison operators and if/else and switch statements on freeCodeCamp. 
+
+**Thoughts** I like how easily a created mini-games with the help of JavaScript, especially counting cards for Blackjack. I think I'a a gambler.
+
+**Link(s) to work**
+1. [Understanding Boolean Values](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values)
+2. [Use Conditional Logic with If Statements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements)
+3. [Comparison with the Equality Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator)
+4. [Comparison with the Strict Equality Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-equality-operator)
+5. [Practice comparing different values](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values)
+6. [Comparison with the Inequality Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator)
+7. [Comparison with the Strict Inequality Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-inequality-operator)
+8. [Comparison with the Greater Than Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator)
+9. [Comparison with the Greater Than Or Equal To Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator)
+10. [Comparison with the Less Than Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-operator)
+11. [Comparison with the Less Than Or Equal To Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator)
+12. [Comparisons with the Logical And Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-and-operator)
+13. [Comparisons with the Logical Or Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator)
+14. [Introducing Else Statements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements)
+15. [Introducing Else If Statements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements)
+16. [Logical Order in If Else Statements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements)
+17. [Chaining If Else Statements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)
+18. [Golf Code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/golf-code)
+19. [Selecting from Many Options with Switch Statements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements)
+20. [Adding a Default Option in Switch Statements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements)
+21. [Multiple Identical Options in Switch Statements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements)
+22. [Replacing If Else Chains with Switch](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch)
+23. [Returning Boolean Values from Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/returning-boolean-values-from-functions)
+24. [Return Early Pattern for Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions)
+25. [Counting Cards](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
