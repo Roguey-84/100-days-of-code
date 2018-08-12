@@ -302,7 +302,7 @@
 
 **Today's Progress**: Today a worked with Boolean data type, comparison operators and if/else and switch statements on freeCodeCamp. 
 
-**Thoughts** I like how easily a created mini-games with the help of JavaScript, especially counting cards for Blackjack. I think I'a a gambler.
+**Thoughts** I like how easily a created mini-games with the help of JavaScript, especially counting cards for Blackjack. I think I'm a gambler.
 
 **Link(s) to work**
 1. [Understanding Boolean Values](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values)
