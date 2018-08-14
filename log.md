@@ -330,3 +330,25 @@
 23. [Returning Boolean Values from Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/returning-boolean-values-from-functions)
 24. [Return Early Pattern for Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions)
 25. [Counting Cards](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
+
+--------------------------------------------------------
+### Day 40: August 13, 2018
+
+**Today's Progress**: Today I worked with objects on freeCodeCamp and created a function which modifies JSON Record Collection. 
+
+**Thoughts** It wasn't easy, but I found a solution and it works. I have a feeling that I can do more and I actually want more. I start liking JavaScript.
+
+**Link(s) to work**
+1. [Build JavaScript Objects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects/)
+2. [Accessing Object Properties with Dot Notation](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation)
+3. [Accessing Object Properties with Bracket Notation](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)
+4. [Accessing Object Properties with Variables](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables)
+5. [Updating Object Properties](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties)
+6. [Add New Properties to a JavaScript Object](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/add-new-properties-to-a-javascript-object)
+7. [Delete Properties from a JavaScript Object](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object)
+8. [Using Objects for Lookups](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)
+9. [Testing Objects for Properties](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties)
+10. [Manipulating Complex Objects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)
+11. [Accessing Nested Objects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects)
+12. [Accessing Nested Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays)
+13. [Record Collection](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
