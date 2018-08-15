@@ -369,3 +369,24 @@
 6. [Nesting For Loops](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops)
 7. [Iterate with JavaScript Do...While Loops](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops)
 8. [Profile Lookup](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+
+--------------------------------------------------------
+### Day 42: August 15, 2018
+
+**Today's Progress**: Basic JavaScript is finally over, now I'm going through ES6 challenges on freeCodeCamp. 
+
+**Thoughts** It is actually very interesting and I'm starting to learn something new. For exapmle, I didn't know about the Object.freeze() functon.
+
+**Link(s) to work**
+1. [Generate Random Fractions with JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript/)
+2. [Generate Random Whole Numbers with JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-with-javascript/)
+3. [Generate Random Whole Numbers within a Range](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-within-a-range/)
+4. [Use the parseInt Function](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function/)
+5. [Use the parseInt Function with a Radix](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function-with-a-radix/)
+6. [Use the Conditional (Ternary) Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator/)
+7. [Use Multiple Conditional (Ternary) Operators](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators/)
+8. [Explore Differences Between the var and let Keywords](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/explore-differences-between-the-var-and-let-keywords/)
+9. [Compare Scopes of the var and let Keywords](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords)
+10. [Declare a Read-Only Variable with the const Keyword](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/declare-a-read-only-variable-with-the-const-keyword)
+11. [Mutate an Array Declared with const](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const)
+12. [Prevent Object Mutation](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/prevent-object-mutation)
