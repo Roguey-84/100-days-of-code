@@ -356,9 +356,9 @@
 --------------------------------------------------------
 ### Day 41: August 14, 2018
 
-**Today's Progress**: Today I worked with objects on freeCodeCamp and created a function which modifies JSON Record Collection. 
+**Today's Progress**: Today I worked with the loops and created a function which should check if the given array with profiles had a name and a property given in arguments. 
 
-**Thoughts** It wasn't easy, but I found a solution and it works. I have a feeling that I can do more and I actually want more. I start liking JavaScript.
+**Thoughts** It is a shame, but I had to look at a hint. One small mistake prevented me from solving the problem.
 
 **Link(s) to work**
 1. [Iterate with JavaScript While Loops](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops/)
