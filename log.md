@@ -390,3 +390,18 @@
 10. [Declare a Read-Only Variable with the const Keyword](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/declare-a-read-only-variable-with-the-const-keyword)
 11. [Mutate an Array Declared with const](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const)
 12. [Prevent Object Mutation](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/prevent-object-mutation)
+
+--------------------------------------------------------
+### Day 43: August 16, 2018
+
+**Today's Progress**: I continue learning new features of ECMAScript 6.  
+
+**Thoughts** Arrow functions created a little obstacle for me, but I overcame it to learn more about rest and spread operators.
+
+**Link(s) to work**
+1. [Use Arrow Functions to Write Concise Anonymous Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions/)
+2. [Write Arrow Functions with Parameters](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters/)
+3. [Write Higher Order Arrow Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-higher-order-arrow-functions/)
+4. [Set Default Parameters for Your Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions/)
+5. [Use the Rest Operator with Function Parameters](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-rest-operator-with-function-parameters/)
+6. [Use the Spread Operator to Evaluate Arrays In-Place](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place/)
