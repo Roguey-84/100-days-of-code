@@ -405,3 +405,20 @@
 4. [Set Default Parameters for Your Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions/)
 5. [Use the Rest Operator with Function Parameters](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-rest-operator-with-function-parameters/)
 6. [Use the Spread Operator to Evaluate Arrays In-Place](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place/)
+
+--------------------------------------------------------
+### Day 44: August 20, 2018
+
+**Today's Progress**: I missed three day due to my lack of concentration. But today I brought myself to the computer and learned about destructing assignment and template literals.  
+
+**Thoughts** That is all very interesting, but I still don't know how to put it into practice and that disappoints me.
+
+**Link(s) to work**
+1. [Use Destructuring Assignment to Assign Variables from Objects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-objects/)
+2. [Use Destructuring Assignment to Assign Variables from Nested Objects](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects)
+3. [Use Destructuring Assignment to Assign Variables from Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays)
+4. [Use Destructuring Assignment with the Rest Operator to Reassign Array Elements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-operator-to-reassign-array-elements)
+5. [Use Destructuring Assignment to Pass an Object as a Function's Parameters](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters)
+6. [Create Strings using Template Literals](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals)
+7. [Write Concise Object Literal Declarations Using Simple Fields](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-concise-object-literal-declarations-using-simple-fields)
+8. [Write Concise Declarative Functions with ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6)
