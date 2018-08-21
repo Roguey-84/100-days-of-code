@@ -426,9 +426,9 @@
 --------------------------------------------------------
 ### Day 45: August 21, 2018
 
-**Today's Progress**: I missed three day due to my lack of concentration. But today I brought myself to the computer and learned about destructing assignment and template literals.  
+**Today's Progress**: Today I completed all the ES6 Challenges on freeCodeCamp.  
 
-**Thoughts** That is all very interesting, but I still don't know how to put it into practice and that disappoints me.
+**Thoughts** It is too bad that there were no practice exercises, where I could think and learn how to use all this new features.
 
 **Link(s) to work**
 1. [Use class Syntax to Define a Constructor Function](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function)
@@ -438,4 +438,3 @@
 5. [Use * to Import Everything from a File](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file)
 6. [Create an Export Fallback with export default](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)
 7. [Import a Default Export](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/import-a-default-export)
-8. [Import a Default Export](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/import-a-default-export)
