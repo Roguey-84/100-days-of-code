@@ -422,3 +422,20 @@
 6. [Create Strings using Template Literals](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals)
 7. [Write Concise Object Literal Declarations Using Simple Fields](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-concise-object-literal-declarations-using-simple-fields)
 8. [Write Concise Declarative Functions with ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6)
+
+--------------------------------------------------------
+### Day 45: August 21, 2018
+
+**Today's Progress**: I missed three day due to my lack of concentration. But today I brought myself to the computer and learned about destructing assignment and template literals.  
+
+**Thoughts** That is all very interesting, but I still don't know how to put it into practice and that disappoints me.
+
+**Link(s) to work**
+1. [Use class Syntax to Define a Constructor Function](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function)
+2. [Use getters and setters to Control Access to an Object](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
+3. [Understand the Differences Between import and require](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/understand-the-differences-between-import-and-require)
+4. [Use export to Reuse a Code Block](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-export-to-reuse-a-code-block)
+5. [Use * to Import Everything from a File](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file)
+6. [Create an Export Fallback with export default](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)
+7. [Import a Default Export](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/import-a-default-export)
+8. [Import a Default Export](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/import-a-default-export)
