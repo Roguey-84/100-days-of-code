@@ -438,3 +438,13 @@
 5. [Use * to Import Everything from a File](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file)
 6. [Create an Export Fallback with export default](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)
 7. [Import a Default Export](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/import-a-default-export)
+
+--------------------------------------------------------
+### Day 46: August 22, 2018
+
+**Today's Progress**: Today I tried to work with the real project, so completed a Task List from Brad Traversy's lessons.  
+
+**Thoughts** Not sure if I understood all the manipulations, but I'll try to remake it without watching the video of the lesson.
+
+**Link(s) to work**
+1. [Task List](https://codepen.io/Roguey/full/jKjqjY/)
