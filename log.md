@@ -448,3 +448,10 @@
 
 **Link(s) to work**
 1. [Task List](https://codepen.io/Roguey/full/jKjqjY/)
+
+--------------------------------------------------------
+### Day 47: August 23, 2018
+
+**Today's Progress**: Today I tried to remake the code for the Task List, which I made yesterday.  
+
+**Thoughts** I had some trouble with the Local Storage, but in the end I actually made it. That is such a great feeling!
