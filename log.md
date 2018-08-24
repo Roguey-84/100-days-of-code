@@ -455,3 +455,13 @@
 **Today's Progress**: Today I tried to remake the code for the Task List, which I made yesterday.  
 
 **Thoughts** I had some trouble with the Local Storage, but in the end I actually made it. That is such a great feeling!
+
+--------------------------------------------------------
+### Day 48: August 24, 2018
+
+**Today's Progress**: Today I worked on a Loan Calculator from Brad Traversy'lessons.  
+
+**Thoughts** It is quite simple, especially after making a Task List. All the manipulations were almost the same, except for the setTimeout() function, which was new and very useful for making a loading circle.
+
+**Link(s) to work**
+1. [Loan Calculator](https://codepen.io/Roguey/full/NLxxay/)
