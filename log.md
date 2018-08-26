@@ -465,3 +465,13 @@
 
 **Link(s) to work**
 1. [Loan Calculator](https://codepen.io/Roguey/full/NLxxay/)
+
+--------------------------------------------------------
+### Day 49: August 25, 2018
+
+**Today's Progress**: Today I worked on a Guess Number game from Brad Traversy's lesson.  
+
+**Thoughts** That was quite simple, so I decided to add some of my own functions, like letting the user to set his own parameters for the game. And making it a little bit easier to guess the number.
+
+**Link(s) to work**
+1. [Number Guesser](https://codepen.io/Roguey/full/RYrYLR/)
