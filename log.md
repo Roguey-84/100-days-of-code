@@ -475,3 +475,11 @@
 
 **Link(s) to work**
 1. [Number Guesser](https://codepen.io/Roguey/full/RYrYLR/)
+
+--------------------------------------------------------
+### Day 50: August 26, 2018
+
+**Today's Progress**: Today I watched lessons of Brad Traversy about Object Oriented Programming and about prototypes.  
+
+**Thoughts** Tomorrow will be another project. Can't wait and see what it's like.
+
